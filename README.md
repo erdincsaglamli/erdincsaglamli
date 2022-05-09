@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![dsci_l_cycle](https://user-images.githubusercontent.com/105038798/167405266-d48c816f-719c-4199-87e9-dfe3fd00f98d.png)
