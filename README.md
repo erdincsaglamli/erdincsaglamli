@@ -4,11 +4,8 @@
 ▹
 
 
-✅ low bias and low variance
+✅
 
-✅ No Free Lunch (https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf)
-
-✅ Occam's Razor
 
 
 
